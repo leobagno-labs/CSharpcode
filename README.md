@@ -1,2 +1,0 @@
-# CSharpcode
-Operators
